@@ -1109,7 +1109,7 @@ function setup() {
     // Verander ook de parent container van p5
     let canvasParent = canvas.elt.parentElement;
     if (canvasParent) {
-        canvasParent.style.backgroundColor = '#1a1a2e';
+        canvasParent.style.backgroundColor = '#0e1621';
     }
 
 
